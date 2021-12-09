@@ -7,6 +7,7 @@
 
 ![Evictions-Graduation-All](https://user-images.githubusercontent.com/52751378/145333653-6a002f95-ddc7-4264-a083-66af0817b105.png)
 ![Income-Graduation](https://user-images.githubusercontent.com/52751378/145339738-43a831bc-c80a-434b-b060-9673e2b2895a.png)
+
 In analyzing the evictions data, I first compared the total of all evictions by zip code from 2017-present to median household income for 2021 by zip code too. Overall, evictions occurred in locations with low median household incomes which is intuitive. For the evictions map, evictions were concentrated mainly in the Bronx and south-eastern Queens. Surprisingly, there was high but less concentration of evictions in the lower east side of Manhattan which had very high median household incomes.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
